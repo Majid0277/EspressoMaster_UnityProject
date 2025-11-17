@@ -1,0 +1,1 @@
+UI setup instructions: Canvas, 5 sliders, 1 button, text objects.
